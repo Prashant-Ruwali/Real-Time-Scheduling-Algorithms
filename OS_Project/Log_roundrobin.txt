@@ -1,0 +1,104 @@
+
+We are using Round Robin real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 6
+Process 2executes from 6to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 11
+Process 2executes from 11to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 16
+Process 2executes from 16to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------
+
+We are using Round Robin real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 2
+Period of process is : 5
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 9
+Name of process is : 3
+Burst time of process is : 3
+Period of process is : 15
+Process 1executes from 0to 2
+Process 2executes from 2to 4
+Process 3executes from 4to 6
+Process 3executes from 6to 7
+Process 1executes from 7to 9
+Process 2executes from 9to 11
+Process 1executes from 11to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 1executes from 15to 17
+Process 3executes from 17to 19
+Process 3executes from 19to 20
+Process 1executes from 20to 22
+Process 2executes from 22to 24
+No Process executes from 24to 25
+Process 1executes from 25to 27
+Process 2executes from 27to 29
+No Process executes from 29to 30
+Process 1executes from 30to 32
+Process 3executes from 32to 34
+Process 3executes from 34to 35
+Process 1executes from 35to 37
+Process 2executes from 37to 39
+No Process executes from 39to 40
+Process 1executes from 40to 42
+No Process executes from 42to 43
+No Process executes from 43to 44
+-----------------------------------------------------------------------------------------------------
+
+We are using Round Robin real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 6
+Process 2executes from 6to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 11
+Process 2executes from 11to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 16
+Process 2executes from 16to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------

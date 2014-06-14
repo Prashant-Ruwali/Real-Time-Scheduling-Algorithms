@@ -1,0 +1,76 @@
+
+We are using Table Driven with different arrival time real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Arrival time of process is : 0
+Burst time of process is : 1
+Period of process is : 4
+Name of process is : 2
+Arrival time of process is : 1
+Burst time of process is : 2
+Period of process is : 5
+Name of process is : 3
+Arrival time of process is : 4
+Burst time of process is : 1
+Period of process is : 20
+Process 1executes from 0to 1
+Process 2executes from 1to 3
+No Process executes from 3to 4
+Process 1executes from 4to 5
+Process 3executes from 5to 6
+Process 2executes from 6to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+No Process executes from 10to 11
+Process 2executes from 11to 13
+Process 1executes from 13to 14
+No Process executes from 14to 15
+No Process executes from 15to 16
+Process 1executes from 16to 17
+Process 2executes from 17to 19
+No Process executes from 19to 20
+Process 1executes from 20to 21
+No Process executes from 21to 22
+No Process executes from 22to 23
+No Process executes from 23to 24
+-----------------------------------------------------------------------------------------------------
+
+We are using Table Driven with different arrival time real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Arrival time of process is : 1
+Burst time of process is : 2
+Period of process is : 4
+Name of process is : 2
+Arrival time of process is : 0
+Burst time of process is : 1
+Period of process is : 4
+Name of process is : 3
+Arrival time of process is : 0
+Burst time of process is : 1
+Period of process is : 20
+Process 2executes from 0to 1
+Process 1executes from 1to 3
+Process 3executes from 3to 4
+Process 2executes from 4to 5
+Process 1executes from 5to 7
+No Process executes from 7to 8
+Process 2executes from 8to 9
+Process 1executes from 9to 11
+No Process executes from 11to 12
+Process 2executes from 12to 13
+Process 1executes from 13to 15
+No Process executes from 15to 16
+Process 2executes from 16to 17
+No Process executes from 17to 18
+No Process executes from 18to 19
+No Process executes from 19to 20
+-----------------------------------------------------------------------------------------------------
+
+We are using Table Driven with different arrival time real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Arrival time of process is : 2
+Burst time of process is : 10
+Period of process is : 2
+Burst time should be less than Period

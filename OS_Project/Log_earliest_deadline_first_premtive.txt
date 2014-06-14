@@ -1,0 +1,2079 @@
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Period of process is : 3
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Period of process is : 4
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Period of process is : 11
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 6
+Process 2executes from 6to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 11
+Process 2executes from 11to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 16
+Process 2executes from 16to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------
+			
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 4
+Name of process is : 1
+Burst time of process is : 2
+Period of process is : 5
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 6
+Period of process is : 5
+Name of process is : 3
+Burst time of process is : 2
+Period of process is : 8
+Period of process is : 6
+Name of process is : 4
+Burst time of process is : 2
+Period of process is : 20
+Period of process is : 11
+Total time required for processing is : 130
+Total time available for processing is : 120
+All the Processes will not be executed as they requires more slots
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Period of process is : 3
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Period of process is : 4
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Period of process is : 11
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 6
+Process 2executes from 6to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 11
+Process 2executes from 11to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 16
+Process 2executes from 16to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 2
+Period of process is : 5
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 6
+Period of process is : 5
+Name of process is : 3
+Burst time of process is : 2
+Period of process is : 20
+Period of process is : 15
+Process 1executes from 0to 1
+Process 1executes from 1to 2
+Process 2executes from 2to 3
+Process 2executes from 3to 4
+Process 3executes from 4to 5
+Process 3executes from 5to 6
+Process 1executes from 6to 7
+Process 1executes from 7to 8
+Process 2executes from 8to 9
+Process 2executes from 9to 10
+Process 1executes from 10to 11
+Process 1executes from 11to 12
+Process 2executes from 12to 13
+Process 2executes from 13to 14
+No Process executes from 14to 15
+Process 1executes from 15to 16
+Process 1executes from 16to 17
+No Process executes from 17to 18
+Process 2executes from 18to 19
+Process 2executes from 19to 20
+Process 3executes from 20to 21
+Process 3executes from 21to 22
+Process 1executes from 22to 23
+Process 1executes from 23to 24
+Process 2executes from 24to 25
+Process 2executes from 25to 26
+Process 1executes from 26to 27
+Process 1executes from 27to 28
+No Process executes from 28to 29
+No Process executes from 29to 30
+Process 1executes from 30to 31
+Process 1executes from 31to 32
+Process 2executes from 32to 33
+Process 2executes from 33to 34
+No Process executes from 34to 35
+Process 1executes from 35to 36
+Process 1executes from 36to 37
+Process 2executes from 37to 38
+Process 2executes from 38to 39
+No Process executes from 39to 40
+Process 1executes from 40to 41
+Process 1executes from 41to 42
+Process 2executes from 42to 43
+Process 2executes from 43to 44
+Process 3executes from 44to 45
+Process 3executes from 45to 46
+Process 1executes from 46to 47
+Process 1executes from 47to 48
+Process 2executes from 48to 49
+Process 2executes from 49to 50
+Process 1executes from 50to 51
+Process 1executes from 51to 52
+No Process executes from 52to 53
+No Process executes from 53to 54
+Process 2executes from 54to 55
+Process 2executes from 55to 56
+Process 1executes from 56to 57
+Process 1executes from 57to 58
+No Process executes from 58to 59
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 3
+Period of process is : 9
+Period of process is : 8
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 7
+Period of process is : 7
+Name of process is : 3
+Burst time of process is : 4
+Period of process is : 25
+Period of process is : 21
+Process 2executes from 0to 1
+Process 2executes from 1to 2
+Process 1executes from 2to 3
+Process 1executes from 3to 4
+Process 1executes from 4to 5
+Process 3executes from 5to 6
+Process 3executes from 6to 7
+Process 3executes from 7to 8
+Process 3executes from 8to 9
+Process 2executes from 9to 10
+Process 2executes from 10to 11
+Process 1executes from 11to 12
+Process 1executes from 12to 13
+Process 1executes from 13to 14
+Process 2executes from 14to 15
+Process 2executes from 15to 16
+No Process executes from 16to 17
+No Process executes from 17to 18
+Process 1executes from 18to 19
+Process 1executes from 19to 20
+Process 1executes from 20to 21
+Process 2executes from 21to 22
+Process 2executes from 22to 23
+No Process executes from 23to 24
+No Process executes from 24to 25
+Process 3executes from 25to 26
+Process 3executes from 26to 27
+Process 3executes from 27to 28
+Process 3executes from 28to 29
+Process 2executes from 29to 30
+Process 2executes from 30to 31
+Process 1executes from 31to 32
+Process 1executes from 32to 33
+Process 1executes from 33to 34
+No Process executes from 34to 35
+Process 2executes from 35to 36
+Process 2executes from 36to 37
+Process 1executes from 37to 38
+Process 1executes from 38to 39
+Process 1executes from 39to 40
+No Process executes from 40to 41
+No Process executes from 41to 42
+Process 2executes from 42to 43
+Process 2executes from 43to 44
+No Process executes from 44to 45
+Process 1executes from 45to 46
+Process 1executes from 46to 47
+Process 1executes from 47to 48
+No Process executes from 48to 49
+Process 2executes from 49to 50
+Process 2executes from 50to 51
+Process 3executes from 51to 52
+Process 3executes from 52to 53
+Process 3executes from 53to 54
+Process 3executes from 54to 55
+Process 1executes from 55to 56
+Process 1executes from 56to 57
+Process 1executes from 57to 58
+Process 2executes from 58to 59
+Process 2executes from 59to 60
+No Process executes from 60to 61
+No Process executes from 61to 62
+No Process executes from 62to 63
+Process 2executes from 63to 64
+Process 2executes from 64to 65
+Process 1executes from 65to 66
+Process 1executes from 66to 67
+Process 1executes from 67to 68
+No Process executes from 68to 69
+No Process executes from 69to 70
+Process 2executes from 70to 71
+Process 2executes from 71to 72
+Process 1executes from 72to 73
+Process 1executes from 73to 74
+Process 1executes from 74to 75
+Process 3executes from 75to 76
+Process 3executes from 76to 77
+Process 3executes from 77to 78
+Process 3executes from 78to 79
+Process 2executes from 79to 80
+Process 2executes from 80to 81
+Process 1executes from 81to 82
+Process 1executes from 82to 83
+Process 1executes from 83to 84
+Process 2executes from 84to 85
+Process 2executes from 85to 86
+No Process executes from 86to 87
+No Process executes from 87to 88
+No Process executes from 88to 89
+No Process executes from 89to 90
+Process 1executes from 90to 91
+Process 1executes from 91to 92
+Process 1executes from 92to 93
+Process 2executes from 93to 94
+Process 2executes from 94to 95
+No Process executes from 95to 96
+No Process executes from 96to 97
+No Process executes from 97to 98
+Process 2executes from 98to 99
+Process 2executes from 99to 100
+Process 1executes from 100to 101
+Process 1executes from 101to 102
+Process 1executes from 102to 103
+Process 3executes from 103to 104
+Process 3executes from 104to 105
+Process 3executes from 105to 106
+Process 3executes from 106to 107
+Process 2executes from 107to 108
+Process 2executes from 108to 109
+Process 1executes from 109to 110
+Process 1executes from 110to 111
+Process 1executes from 111to 112
+Process 2executes from 112to 113
+Process 2executes from 113to 114
+No Process executes from 114to 115
+No Process executes from 115to 116
+No Process executes from 116to 117
+Process 1executes from 117to 118
+Process 1executes from 118to 119
+Process 1executes from 119to 120
+Process 2executes from 120to 121
+Process 2executes from 121to 122
+No Process executes from 122to 123
+No Process executes from 123to 124
+No Process executes from 124to 125
+Process 3executes from 125to 126
+Process 3executes from 126to 127
+Process 3executes from 127to 128
+Process 3executes from 128to 129
+Process 2executes from 129to 130
+Process 2executes from 130to 131
+Process 1executes from 131to 132
+Process 1executes from 132to 133
+Process 1executes from 133to 134
+Process 2executes from 134to 135
+Process 2executes from 135to 136
+Process 1executes from 136to 137
+Process 1executes from 137to 138
+Process 1executes from 138to 139
+No Process executes from 139to 140
+Process 2executes from 140to 141
+Process 2executes from 141to 142
+No Process executes from 142to 143
+No Process executes from 143to 144
+Process 1executes from 144to 145
+Process 1executes from 145to 146
+Process 1executes from 146to 147
+Process 2executes from 147to 148
+Process 2executes from 148to 149
+No Process executes from 149to 150
+Process 3executes from 150to 151
+Process 3executes from 151to 152
+Process 3executes from 152to 153
+Process 3executes from 153to 154
+Process 2executes from 154to 155
+Process 2executes from 155to 156
+Process 1executes from 156to 157
+Process 1executes from 157to 158
+Process 1executes from 158to 159
+No Process executes from 159to 160
+No Process executes from 160to 161
+Process 2executes from 161to 162
+Process 2executes from 162to 163
+Process 1executes from 163to 164
+Process 1executes from 164to 165
+Process 1executes from 165to 166
+No Process executes from 166to 167
+No Process executes from 167to 168
+Process 2executes from 168to 169
+Process 2executes from 169to 170
+No Process executes from 170to 171
+Process 1executes from 171to 172
+Process 1executes from 172to 173
+Process 1executes from 173to 174
+No Process executes from 174to 175
+Process 2executes from 175to 176
+Process 2executes from 176to 177
+Process 3executes from 177to 178
+Process 3executes from 178to 179
+Process 3executes from 179to 180
+Process 3executes from 180to 181
+Process 1executes from 181to 182
+Process 1executes from 182to 183
+Process 1executes from 183to 184
+Process 2executes from 184to 185
+Process 2executes from 185to 186
+No Process executes from 186to 187
+No Process executes from 187to 188
+No Process executes from 188to 189
+Process 2executes from 189to 190
+Process 2executes from 190to 191
+Process 1executes from 191to 192
+Process 1executes from 192to 193
+Process 1executes from 193to 194
+No Process executes from 194to 195
+No Process executes from 195to 196
+Process 2executes from 196to 197
+Process 2executes from 197to 198
+Process 1executes from 198to 199
+Process 1executes from 199to 200
+Process 1executes from 200to 201
+Process 3executes from 201to 202
+Process 3executes from 202to 203
+Process 3executes from 203to 204
+Process 3executes from 204to 205
+Process 2executes from 205to 206
+Process 2executes from 206to 207
+Process 1executes from 207to 208
+Process 1executes from 208to 209
+Process 1executes from 209to 210
+Process 2executes from 210to 211
+Process 2executes from 211to 212
+No Process executes from 212to 213
+No Process executes from 213to 214
+No Process executes from 214to 215
+No Process executes from 215to 216
+Process 1executes from 216to 217
+Process 1executes from 217to 218
+Process 1executes from 218to 219
+Process 2executes from 219to 220
+Process 2executes from 220to 221
+No Process executes from 221to 222
+No Process executes from 222to 223
+No Process executes from 223to 224
+Process 2executes from 224to 225
+Process 2executes from 225to 226
+Process 1executes from 226to 227
+Process 1executes from 227to 228
+Process 1executes from 228to 229
+Process 3executes from 229to 230
+Process 3executes from 230to 231
+Process 3executes from 231to 232
+Process 3executes from 232to 233
+Process 2executes from 233to 234
+Process 2executes from 234to 235
+Process 1executes from 235to 236
+Process 1executes from 236to 237
+Process 1executes from 237to 238
+Process 2executes from 238to 239
+Process 2executes from 239to 240
+No Process executes from 240to 241
+No Process executes from 241to 242
+No Process executes from 242to 243
+Process 1executes from 243to 244
+Process 1executes from 244to 245
+Process 1executes from 245to 246
+Process 2executes from 246to 247
+Process 2executes from 247to 248
+No Process executes from 248to 249
+No Process executes from 249to 250
+Process 3executes from 250to 251
+Process 3executes from 251to 252
+Process 3executes from 252to 253
+Process 3executes from 253to 254
+Process 2executes from 254to 255
+Process 2executes from 255to 256
+Process 1executes from 256to 257
+Process 1executes from 257to 258
+Process 1executes from 258to 259
+Process 2executes from 259to 260
+Process 2executes from 260to 261
+Process 1executes from 261to 262
+Process 1executes from 262to 263
+Process 1executes from 263to 264
+No Process executes from 264to 265
+No Process executes from 265to 266
+Process 2executes from 266to 267
+Process 2executes from 267to 268
+No Process executes from 268to 269
+No Process executes from 269to 270
+Process 1executes from 270to 271
+Process 1executes from 271to 272
+Process 1executes from 272to 273
+Process 2executes from 273to 274
+Process 2executes from 274to 275
+Process 3executes from 275to 276
+Process 3executes from 276to 277
+Process 3executes from 277to 278
+Process 3executes from 278to 279
+Process 1executes from 279to 280
+Process 1executes from 280to 281
+Process 1executes from 281to 282
+Process 2executes from 282to 283
+Process 2executes from 283to 284
+No Process executes from 284to 285
+No Process executes from 285to 286
+No Process executes from 286to 287
+Process 2executes from 287to 288
+Process 2executes from 288to 289
+Process 1executes from 289to 290
+Process 1executes from 290to 291
+Process 1executes from 291to 292
+No Process executes from 292to 293
+No Process executes from 293to 294
+Process 2executes from 294to 295
+Process 2executes from 295to 296
+No Process executes from 296to 297
+Process 1executes from 297to 298
+Process 1executes from 298to 299
+Process 1executes from 299to 300
+Process 3executes from 300to 301
+Process 3executes from 301to 302
+Process 3executes from 302to 303
+Process 3executes from 303to 304
+Process 2executes from 304to 305
+Process 2executes from 305to 306
+Process 1executes from 306to 307
+Process 1executes from 307to 308
+Process 1executes from 308to 309
+Process 2executes from 309to 310
+Process 2executes from 310to 311
+No Process executes from 311to 312
+No Process executes from 312to 313
+No Process executes from 313to 314
+No Process executes from 314to 315
+Process 2executes from 315to 316
+Process 2executes from 316to 317
+Process 1executes from 317to 318
+Process 1executes from 318to 319
+Process 1executes from 319to 320
+No Process executes from 320to 321
+No Process executes from 321to 322
+Process 2executes from 322to 323
+Process 2executes from 323to 324
+Process 1executes from 324to 325
+Process 1executes from 325to 326
+Process 1executes from 326to 327
+Process 3executes from 327to 328
+Process 3executes from 328to 329
+Process 3executes from 329to 330
+Process 3executes from 330to 331
+Process 2executes from 331to 332
+Process 2executes from 332to 333
+Process 1executes from 333to 334
+Process 1executes from 334to 335
+Process 1executes from 335to 336
+Process 2executes from 336to 337
+Process 2executes from 337to 338
+No Process executes from 338to 339
+No Process executes from 339to 340
+No Process executes from 340to 341
+No Process executes from 341to 342
+Process 1executes from 342to 343
+Process 1executes from 343to 344
+Process 1executes from 344to 345
+Process 2executes from 345to 346
+Process 2executes from 346to 347
+No Process executes from 347to 348
+No Process executes from 348to 349
+No Process executes from 349to 350
+Process 2executes from 350to 351
+Process 2executes from 351to 352
+Process 1executes from 352to 353
+Process 1executes from 353to 354
+Process 1executes from 354to 355
+Process 3executes from 355to 356
+Process 3executes from 356to 357
+Process 3executes from 357to 358
+Process 3executes from 358to 359
+Process 2executes from 359to 360
+Process 2executes from 360to 361
+Process 1executes from 361to 362
+Process 1executes from 362to 363
+Process 1executes from 363to 364
+Process 2executes from 364to 365
+Process 2executes from 365to 366
+No Process executes from 366to 367
+No Process executes from 367to 368
+No Process executes from 368to 369
+Process 1executes from 369to 370
+Process 1executes from 370to 371
+Process 1executes from 371to 372
+Process 2executes from 372to 373
+Process 2executes from 373to 374
+No Process executes from 374to 375
+Process 3executes from 375to 376
+Process 3executes from 376to 377
+Process 3executes from 377to 378
+Process 3executes from 378to 379
+Process 2executes from 379to 380
+Process 2executes from 380to 381
+Process 1executes from 381to 382
+Process 1executes from 382to 383
+Process 1executes from 383to 384
+No Process executes from 384to 385
+Process 2executes from 385to 386
+Process 2executes from 386to 387
+Process 1executes from 387to 388
+Process 1executes from 388to 389
+Process 1executes from 389to 390
+No Process executes from 390to 391
+No Process executes from 391to 392
+Process 2executes from 392to 393
+Process 2executes from 393to 394
+No Process executes from 394to 395
+No Process executes from 395to 396
+Process 1executes from 396to 397
+Process 1executes from 397to 398
+Process 1executes from 398to 399
+Process 2executes from 399to 400
+Process 2executes from 400to 401
+Process 3executes from 401to 402
+Process 3executes from 402to 403
+Process 3executes from 403to 404
+Process 3executes from 404to 405
+Process 1executes from 405to 406
+Process 1executes from 406to 407
+Process 1executes from 407to 408
+Process 2executes from 408to 409
+Process 2executes from 409to 410
+No Process executes from 410to 411
+No Process executes from 411to 412
+No Process executes from 412to 413
+Process 2executes from 413to 414
+Process 2executes from 414to 415
+Process 1executes from 415to 416
+Process 1executes from 416to 417
+Process 1executes from 417to 418
+No Process executes from 418to 419
+No Process executes from 419to 420
+Process 2executes from 420to 421
+Process 2executes from 421to 422
+No Process executes from 422to 423
+Process 1executes from 423to 424
+Process 1executes from 424to 425
+Process 1executes from 425to 426
+Process 3executes from 426to 427
+Process 3executes from 427to 428
+Process 3executes from 428to 429
+Process 3executes from 429to 430
+Process 2executes from 430to 431
+Process 2executes from 431to 432
+Process 1executes from 432to 433
+Process 1executes from 433to 434
+Process 1executes from 434to 435
+Process 2executes from 435to 436
+Process 2executes from 436to 437
+No Process executes from 437to 438
+No Process executes from 438to 439
+No Process executes from 439to 440
+No Process executes from 440to 441
+Process 2executes from 441to 442
+Process 2executes from 442to 443
+Process 1executes from 443to 444
+Process 1executes from 444to 445
+Process 1executes from 445to 446
+No Process executes from 446to 447
+No Process executes from 447to 448
+Process 2executes from 448to 449
+Process 2executes from 449to 450
+Process 1executes from 450to 451
+Process 1executes from 451to 452
+Process 1executes from 452to 453
+Process 3executes from 453to 454
+Process 3executes from 454to 455
+Process 3executes from 455to 456
+Process 3executes from 456to 457
+Process 2executes from 457to 458
+Process 2executes from 458to 459
+Process 1executes from 459to 460
+Process 1executes from 460to 461
+Process 1executes from 461to 462
+Process 2executes from 462to 463
+Process 2executes from 463to 464
+No Process executes from 464to 465
+No Process executes from 465to 466
+No Process executes from 466to 467
+No Process executes from 467to 468
+Process 1executes from 468to 469
+Process 1executes from 469to 470
+Process 1executes from 470to 471
+Process 2executes from 471to 472
+Process 2executes from 472to 473
+No Process executes from 473to 474
+No Process executes from 474to 475
+Process 3executes from 475to 476
+Process 3executes from 476to 477
+Process 3executes from 477to 478
+Process 3executes from 478to 479
+Process 2executes from 479to 480
+Process 2executes from 480to 481
+Process 1executes from 481to 482
+Process 1executes from 482to 483
+Process 1executes from 483to 484
+Process 2executes from 484to 485
+Process 2executes from 485to 486
+Process 1executes from 486to 487
+Process 1executes from 487to 488
+Process 1executes from 488to 489
+No Process executes from 489to 490
+Process 2executes from 490to 491
+Process 2executes from 491to 492
+No Process executes from 492to 493
+No Process executes from 493to 494
+No Process executes from 494to 495
+Process 1executes from 495to 496
+Process 1executes from 496to 497
+Process 1executes from 497to 498
+Process 2executes from 498to 499
+Process 2executes from 499to 500
+Process 3executes from 500to 501
+Process 3executes from 501to 502
+Process 3executes from 502to 503
+Process 3executes from 503to 504
+Process 2executes from 504to 505
+Process 2executes from 505to 506
+Process 1executes from 506to 507
+Process 1executes from 507to 508
+Process 1executes from 508to 509
+No Process executes from 509to 510
+No Process executes from 510to 511
+Process 2executes from 511to 512
+Process 2executes from 512to 513
+Process 1executes from 513to 514
+Process 1executes from 514to 515
+Process 1executes from 515to 516
+No Process executes from 516to 517
+No Process executes from 517to 518
+Process 2executes from 518to 519
+Process 2executes from 519to 520
+No Process executes from 520to 521
+No Process executes from 521to 522
+Process 1executes from 522to 523
+Process 1executes from 523to 524
+Process 1executes from 524to 525
+Process 3executes from 525to 526
+Process 3executes from 526to 527
+Process 3executes from 527to 528
+Process 3executes from 528to 529
+Process 2executes from 529to 530
+Process 2executes from 530to 531
+Process 1executes from 531to 532
+Process 1executes from 532to 533
+Process 1executes from 533to 534
+Process 2executes from 534to 535
+Process 2executes from 535to 536
+No Process executes from 536to 537
+No Process executes from 537to 538
+No Process executes from 538to 539
+Process 2executes from 539to 540
+Process 2executes from 540to 541
+Process 1executes from 541to 542
+Process 1executes from 542to 543
+Process 1executes from 543to 544
+No Process executes from 544to 545
+No Process executes from 545to 546
+Process 2executes from 546to 547
+Process 2executes from 547to 548
+No Process executes from 548to 549
+Process 1executes from 549to 550
+Process 1executes from 550to 551
+Process 1executes from 551to 552
+Process 3executes from 552to 553
+Process 3executes from 553to 554
+Process 3executes from 554to 555
+Process 3executes from 555to 556
+Process 2executes from 556to 557
+Process 2executes from 557to 558
+Process 1executes from 558to 559
+Process 1executes from 559to 560
+Process 1executes from 560to 561
+Process 2executes from 561to 562
+Process 2executes from 562to 563
+No Process executes from 563to 564
+No Process executes from 564to 565
+No Process executes from 565to 566
+No Process executes from 566to 567
+Process 2executes from 567to 568
+Process 2executes from 568to 569
+Process 1executes from 569to 570
+Process 1executes from 570to 571
+Process 1executes from 571to 572
+No Process executes from 572to 573
+No Process executes from 573to 574
+Process 2executes from 574to 575
+Process 2executes from 575to 576
+Process 1executes from 576to 577
+Process 1executes from 577to 578
+Process 1executes from 578to 579
+Process 3executes from 579to 580
+Process 3executes from 580to 581
+Process 3executes from 581to 582
+Process 3executes from 582to 583
+Process 2executes from 583to 584
+Process 2executes from 584to 585
+Process 1executes from 585to 586
+Process 1executes from 586to 587
+Process 1executes from 587to 588
+Process 2executes from 588to 589
+Process 2executes from 589to 590
+No Process executes from 590to 591
+No Process executes from 591to 592
+No Process executes from 592to 593
+No Process executes from 593to 594
+Process 1executes from 594to 595
+Process 1executes from 595to 596
+Process 1executes from 596to 597
+Process 2executes from 597to 598
+Process 2executes from 598to 599
+No Process executes from 599to 600
+Process 3executes from 600to 601
+Process 3executes from 601to 602
+Process 3executes from 602to 603
+Process 3executes from 603to 604
+Process 2executes from 604to 605
+Process 2executes from 605to 606
+Process 1executes from 606to 607
+Process 1executes from 607to 608
+Process 1executes from 608to 609
+Process 2executes from 609to 610
+Process 2executes from 610to 611
+No Process executes from 611to 612
+Process 1executes from 612to 613
+Process 1executes from 613to 614
+Process 1executes from 614to 615
+No Process executes from 615to 616
+Process 2executes from 616to 617
+Process 2executes from 617to 618
+No Process executes from 618to 619
+No Process executes from 619to 620
+No Process executes from 620to 621
+Process 1executes from 621to 622
+Process 1executes from 622to 623
+Process 1executes from 623to 624
+Process 2executes from 624to 625
+Process 2executes from 625to 626
+Process 3executes from 626to 627
+Process 3executes from 627to 628
+Process 3executes from 628to 629
+Process 3executes from 629to 630
+Process 2executes from 630to 631
+Process 2executes from 631to 632
+Process 1executes from 632to 633
+Process 1executes from 633to 634
+Process 1executes from 634to 635
+No Process executes from 635to 636
+No Process executes from 636to 637
+Process 2executes from 637to 638
+Process 2executes from 638to 639
+Process 1executes from 639to 640
+Process 1executes from 640to 641
+Process 1executes from 641to 642
+No Process executes from 642to 643
+No Process executes from 643to 644
+Process 2executes from 644to 645
+Process 2executes from 645to 646
+No Process executes from 646to 647
+No Process executes from 647to 648
+Process 1executes from 648to 649
+Process 1executes from 649to 650
+Process 1executes from 650to 651
+Process 3executes from 651to 652
+Process 3executes from 652to 653
+Process 3executes from 653to 654
+Process 3executes from 654to 655
+Process 2executes from 655to 656
+Process 2executes from 656to 657
+Process 1executes from 657to 658
+Process 1executes from 658to 659
+Process 1executes from 659to 660
+Process 2executes from 660to 661
+Process 2executes from 661to 662
+No Process executes from 662to 663
+No Process executes from 663to 664
+No Process executes from 664to 665
+Process 2executes from 665to 666
+Process 2executes from 666to 667
+Process 1executes from 667to 668
+Process 1executes from 668to 669
+Process 1executes from 669to 670
+No Process executes from 670to 671
+No Process executes from 671to 672
+Process 2executes from 672to 673
+Process 2executes from 673to 674
+No Process executes from 674to 675
+Process 1executes from 675to 676
+Process 1executes from 676to 677
+Process 1executes from 677to 678
+Process 3executes from 678to 679
+Process 3executes from 679to 680
+Process 3executes from 680to 681
+Process 3executes from 681to 682
+Process 2executes from 682to 683
+Process 2executes from 683to 684
+Process 1executes from 684to 685
+Process 1executes from 685to 686
+Process 1executes from 686to 687
+Process 2executes from 687to 688
+Process 2executes from 688to 689
+No Process executes from 689to 690
+No Process executes from 690to 691
+No Process executes from 691to 692
+No Process executes from 692to 693
+Process 2executes from 693to 694
+Process 2executes from 694to 695
+Process 1executes from 695to 696
+Process 1executes from 696to 697
+Process 1executes from 697to 698
+No Process executes from 698to 699
+No Process executes from 699to 700
+Process 2executes from 700to 701
+Process 2executes from 701to 702
+Process 1executes from 702to 703
+Process 1executes from 703to 704
+Process 1executes from 704to 705
+Process 3executes from 705to 706
+Process 3executes from 706to 707
+Process 3executes from 707to 708
+Process 3executes from 708to 709
+Process 2executes from 709to 710
+Process 2executes from 710to 711
+Process 1executes from 711to 712
+Process 1executes from 712to 713
+Process 1executes from 713to 714
+Process 2executes from 714to 715
+Process 2executes from 715to 716
+No Process executes from 716to 717
+No Process executes from 717to 718
+No Process executes from 718to 719
+No Process executes from 719to 720
+Process 1executes from 720to 721
+Process 1executes from 721to 722
+Process 1executes from 722to 723
+Process 2executes from 723to 724
+Process 2executes from 724to 725
+Process 3executes from 725to 726
+Process 3executes from 726to 727
+Process 3executes from 727to 728
+Process 3executes from 728to 729
+Process 2executes from 729to 730
+Process 2executes from 730to 731
+Process 1executes from 731to 732
+Process 1executes from 732to 733
+Process 1executes from 733to 734
+No Process executes from 734to 735
+Process 2executes from 735to 736
+Process 2executes from 736to 737
+No Process executes from 737to 738
+Process 1executes from 738to 739
+Process 1executes from 739to 740
+Process 1executes from 740to 741
+No Process executes from 741to 742
+Process 2executes from 742to 743
+Process 2executes from 743to 744
+No Process executes from 744to 745
+No Process executes from 745to 746
+No Process executes from 746to 747
+Process 1executes from 747to 748
+Process 1executes from 748to 749
+Process 1executes from 749to 750
+Process 3executes from 750to 751
+Process 3executes from 751to 752
+Process 3executes from 752to 753
+Process 3executes from 753to 754
+Process 2executes from 754to 755
+Process 2executes from 755to 756
+Process 1executes from 756to 757
+Process 1executes from 757to 758
+Process 1executes from 758to 759
+Process 2executes from 759to 760
+Process 2executes from 760to 761
+No Process executes from 761to 762
+No Process executes from 762to 763
+Process 2executes from 763to 764
+Process 2executes from 764to 765
+Process 1executes from 765to 766
+Process 1executes from 766to 767
+Process 1executes from 767to 768
+No Process executes from 768to 769
+No Process executes from 769to 770
+Process 2executes from 770to 771
+Process 2executes from 771to 772
+No Process executes from 772to 773
+No Process executes from 773to 774
+Process 1executes from 774to 775
+Process 1executes from 775to 776
+Process 1executes from 776to 777
+Process 3executes from 777to 778
+Process 3executes from 778to 779
+Process 3executes from 779to 780
+Process 3executes from 780to 781
+Process 2executes from 781to 782
+Process 2executes from 782to 783
+Process 1executes from 783to 784
+Process 1executes from 784to 785
+Process 1executes from 785to 786
+Process 2executes from 786to 787
+Process 2executes from 787to 788
+No Process executes from 788to 789
+No Process executes from 789to 790
+No Process executes from 790to 791
+Process 2executes from 791to 792
+Process 2executes from 792to 793
+Process 1executes from 793to 794
+Process 1executes from 794to 795
+Process 1executes from 795to 796
+No Process executes from 796to 797
+No Process executes from 797to 798
+Process 2executes from 798to 799
+Process 2executes from 799to 800
+Process 3executes from 800to 801
+Process 3executes from 801to 802
+Process 3executes from 802to 803
+Process 3executes from 803to 804
+Process 1executes from 804to 805
+Process 1executes from 805to 806
+Process 1executes from 806to 807
+Process 2executes from 807to 808
+Process 2executes from 808to 809
+No Process executes from 809to 810
+Process 1executes from 810to 811
+Process 1executes from 811to 812
+Process 1executes from 812to 813
+Process 2executes from 813to 814
+Process 2executes from 814to 815
+No Process executes from 815to 816
+No Process executes from 816to 817
+No Process executes from 817to 818
+No Process executes from 818to 819
+Process 2executes from 819to 820
+Process 2executes from 820to 821
+Process 1executes from 821to 822
+Process 1executes from 822to 823
+Process 1executes from 823to 824
+No Process executes from 824to 825
+Process 3executes from 825to 826
+Process 3executes from 826to 827
+Process 3executes from 827to 828
+Process 3executes from 828to 829
+Process 2executes from 829to 830
+Process 2executes from 830to 831
+Process 1executes from 831to 832
+Process 1executes from 832to 833
+Process 1executes from 833to 834
+Process 2executes from 834to 835
+Process 2executes from 835to 836
+No Process executes from 836to 837
+Process 1executes from 837to 838
+Process 1executes from 838to 839
+Process 1executes from 839to 840
+Process 2executes from 840to 841
+Process 2executes from 841to 842
+No Process executes from 842to 843
+No Process executes from 843to 844
+No Process executes from 844to 845
+No Process executes from 845to 846
+Process 1executes from 846to 847
+Process 1executes from 847to 848
+Process 1executes from 848to 849
+Process 2executes from 849to 850
+Process 2executes from 850to 851
+Process 3executes from 851to 852
+Process 3executes from 852to 853
+Process 3executes from 853to 854
+Process 3executes from 854to 855
+Process 2executes from 855to 856
+Process 2executes from 856to 857
+Process 1executes from 857to 858
+Process 1executes from 858to 859
+Process 1executes from 859to 860
+No Process executes from 860to 861
+Process 2executes from 861to 862
+Process 2executes from 862to 863
+No Process executes from 863to 864
+Process 1executes from 864to 865
+Process 1executes from 865to 866
+Process 1executes from 866to 867
+No Process executes from 867to 868
+Process 2executes from 868to 869
+Process 2executes from 869to 870
+No Process executes from 870to 871
+No Process executes from 871to 872
+No Process executes from 872to 873
+Process 1executes from 873to 874
+Process 1executes from 874to 875
+Process 1executes from 875to 876
+Process 3executes from 876to 877
+Process 3executes from 877to 878
+Process 3executes from 878to 879
+Process 3executes from 879to 880
+Process 2executes from 880to 881
+Process 2executes from 881to 882
+Process 1executes from 882to 883
+Process 1executes from 883to 884
+Process 1executes from 884to 885
+Process 2executes from 885to 886
+Process 2executes from 886to 887
+No Process executes from 887to 888
+No Process executes from 888to 889
+Process 2executes from 889to 890
+Process 2executes from 890to 891
+Process 1executes from 891to 892
+Process 1executes from 892to 893
+Process 1executes from 893to 894
+No Process executes from 894to 895
+No Process executes from 895to 896
+Process 2executes from 896to 897
+Process 2executes from 897to 898
+No Process executes from 898to 899
+No Process executes from 899to 900
+Process 1executes from 900to 901
+Process 1executes from 901to 902
+Process 1executes from 902to 903
+Process 3executes from 903to 904
+Process 3executes from 904to 905
+Process 3executes from 905to 906
+Process 3executes from 906to 907
+Process 2executes from 907to 908
+Process 2executes from 908to 909
+Process 1executes from 909to 910
+Process 1executes from 910to 911
+Process 1executes from 911to 912
+Process 2executes from 912to 913
+Process 2executes from 913to 914
+No Process executes from 914to 915
+No Process executes from 915to 916
+No Process executes from 916to 917
+Process 2executes from 917to 918
+Process 2executes from 918to 919
+Process 1executes from 919to 920
+Process 1executes from 920to 921
+Process 1executes from 921to 922
+No Process executes from 922to 923
+No Process executes from 923to 924
+Process 2executes from 924to 925
+Process 2executes from 925to 926
+Process 3executes from 926to 927
+Process 3executes from 927to 928
+Process 3executes from 928to 929
+Process 3executes from 929to 930
+Process 1executes from 930to 931
+Process 1executes from 931to 932
+Process 1executes from 932to 933
+Process 2executes from 933to 934
+Process 2executes from 934to 935
+No Process executes from 935to 936
+Process 1executes from 936to 937
+Process 1executes from 937to 938
+Process 1executes from 938to 939
+Process 2executes from 939to 940
+Process 2executes from 940to 941
+No Process executes from 941to 942
+No Process executes from 942to 943
+No Process executes from 943to 944
+No Process executes from 944to 945
+Process 2executes from 945to 946
+Process 2executes from 946to 947
+Process 1executes from 947to 948
+Process 1executes from 948to 949
+Process 1executes from 949to 950
+Process 3executes from 950to 951
+Process 3executes from 951to 952
+Process 3executes from 952to 953
+Process 3executes from 953to 954
+Process 2executes from 954to 955
+Process 2executes from 955to 956
+Process 1executes from 956to 957
+Process 1executes from 957to 958
+Process 1executes from 958to 959
+Process 2executes from 959to 960
+Process 2executes from 960to 961
+No Process executes from 961to 962
+No Process executes from 962to 963
+Process 1executes from 963to 964
+Process 1executes from 964to 965
+Process 1executes from 965to 966
+Process 2executes from 966to 967
+Process 2executes from 967to 968
+No Process executes from 968to 969
+No Process executes from 969to 970
+No Process executes from 970to 971
+No Process executes from 971to 972
+Process 1executes from 972to 973
+Process 1executes from 973to 974
+Process 1executes from 974to 975
+Process 3executes from 975to 976
+Process 3executes from 976to 977
+Process 3executes from 977to 978
+Process 2executes from 978to 979
+Process 2executes from 979to 980
+Process 3executes from 980to 981
+Process 2executes from 981to 982
+Process 2executes from 982to 983
+Process 1executes from 983to 984
+Process 1executes from 984to 985
+Process 1executes from 985to 986
+No Process executes from 986to 987
+Process 2executes from 987to 988
+Process 2executes from 988to 989
+No Process executes from 989to 990
+Process 1executes from 990to 991
+Process 1executes from 991to 992
+Process 1executes from 992to 993
+No Process executes from 993to 994
+Process 2executes from 994to 995
+Process 2executes from 995to 996
+No Process executes from 996to 997
+No Process executes from 997to 998
+No Process executes from 998to 999
+Process 1executes from 999to 1000
+Process 1executes from 1000to 1001
+Process 1executes from 1001to 1002
+Process 3executes from 1002to 1003
+Process 3executes from 1003to 1004
+Process 3executes from 1004to 1005
+Process 3executes from 1005to 1006
+Process 2executes from 1006to 1007
+Process 2executes from 1007to 1008
+Process 1executes from 1008to 1009
+Process 1executes from 1009to 1010
+Process 1executes from 1010to 1011
+Process 2executes from 1011to 1012
+Process 2executes from 1012to 1013
+No Process executes from 1013to 1014
+No Process executes from 1014to 1015
+Process 2executes from 1015to 1016
+Process 2executes from 1016to 1017
+Process 1executes from 1017to 1018
+Process 1executes from 1018to 1019
+Process 1executes from 1019to 1020
+No Process executes from 1020to 1021
+No Process executes from 1021to 1022
+Process 2executes from 1022to 1023
+Process 2executes from 1023to 1024
+No Process executes from 1024to 1025
+Process 3executes from 1025to 1026
+Process 3executes from 1026to 1027
+Process 3executes from 1027to 1028
+Process 3executes from 1028to 1029
+Process 2executes from 1029to 1030
+Process 2executes from 1030to 1031
+Process 1executes from 1031to 1032
+Process 1executes from 1032to 1033
+Process 1executes from 1033to 1034
+No Process executes from 1034to 1035
+Process 1executes from 1035to 1036
+Process 1executes from 1036to 1037
+Process 1executes from 1037to 1038
+Process 2executes from 1038to 1039
+Process 2executes from 1039to 1040
+No Process executes from 1040to 1041
+No Process executes from 1041to 1042
+No Process executes from 1042to 1043
+Process 2executes from 1043to 1044
+Process 2executes from 1044to 1045
+Process 1executes from 1045to 1046
+Process 1executes from 1046to 1047
+Process 1executes from 1047to 1048
+No Process executes from 1048to 1049
+No Process executes from 1049to 1050
+Process 2executes from 1050to 1051
+Process 2executes from 1051to 1052
+Process 3executes from 1052to 1053
+Process 3executes from 1053to 1054
+Process 3executes from 1054to 1055
+Process 3executes from 1055to 1056
+Process 1executes from 1056to 1057
+Process 1executes from 1057to 1058
+Process 1executes from 1058to 1059
+Process 2executes from 1059to 1060
+Process 2executes from 1060to 1061
+No Process executes from 1061to 1062
+Process 1executes from 1062to 1063
+Process 1executes from 1063to 1064
+Process 1executes from 1064to 1065
+Process 2executes from 1065to 1066
+Process 2executes from 1066to 1067
+No Process executes from 1067to 1068
+No Process executes from 1068to 1069
+No Process executes from 1069to 1070
+No Process executes from 1070to 1071
+Process 2executes from 1071to 1072
+Process 2executes from 1072to 1073
+Process 1executes from 1073to 1074
+Process 1executes from 1074to 1075
+Process 1executes from 1075to 1076
+Process 3executes from 1076to 1077
+Process 3executes from 1077to 1078
+Process 3executes from 1078to 1079
+Process 3executes from 1079to 1080
+Process 2executes from 1080to 1081
+Process 2executes from 1081to 1082
+Process 1executes from 1082to 1083
+Process 1executes from 1083to 1084
+Process 1executes from 1084to 1085
+Process 2executes from 1085to 1086
+Process 2executes from 1086to 1087
+No Process executes from 1087to 1088
+No Process executes from 1088to 1089
+Process 1executes from 1089to 1090
+Process 1executes from 1090to 1091
+Process 1executes from 1091to 1092
+Process 2executes from 1092to 1093
+Process 2executes from 1093to 1094
+No Process executes from 1094to 1095
+No Process executes from 1095to 1096
+No Process executes from 1096to 1097
+No Process executes from 1097to 1098
+Process 1executes from 1098to 1099
+Process 1executes from 1099to 1100
+Process 1executes from 1100to 1101
+Process 3executes from 1101to 1102
+Process 3executes from 1102to 1103
+Process 3executes from 1103to 1104
+Process 2executes from 1104to 1105
+Process 2executes from 1105to 1106
+Process 3executes from 1106to 1107
+Process 2executes from 1107to 1108
+Process 2executes from 1108to 1109
+Process 1executes from 1109to 1110
+Process 1executes from 1110to 1111
+Process 1executes from 1111to 1112
+No Process executes from 1112to 1113
+Process 2executes from 1113to 1114
+Process 2executes from 1114to 1115
+No Process executes from 1115to 1116
+Process 1executes from 1116to 1117
+Process 1executes from 1117to 1118
+Process 1executes from 1118to 1119
+No Process executes from 1119to 1120
+Process 2executes from 1120to 1121
+Process 2executes from 1121to 1122
+No Process executes from 1122to 1123
+No Process executes from 1123to 1124
+No Process executes from 1124to 1125
+Process 1executes from 1125to 1126
+Process 1executes from 1126to 1127
+Process 1executes from 1127to 1128
+Process 3executes from 1128to 1129
+Process 3executes from 1129to 1130
+Process 3executes from 1130to 1131
+Process 3executes from 1131to 1132
+Process 2executes from 1132to 1133
+Process 2executes from 1133to 1134
+Process 1executes from 1134to 1135
+Process 1executes from 1135to 1136
+Process 1executes from 1136to 1137
+Process 2executes from 1137to 1138
+Process 2executes from 1138to 1139
+No Process executes from 1139to 1140
+No Process executes from 1140to 1141
+Process 2executes from 1141to 1142
+Process 2executes from 1142to 1143
+Process 1executes from 1143to 1144
+Process 1executes from 1144to 1145
+Process 1executes from 1145to 1146
+No Process executes from 1146to 1147
+No Process executes from 1147to 1148
+Process 2executes from 1148to 1149
+Process 2executes from 1149to 1150
+Process 3executes from 1150to 1151
+Process 3executes from 1151to 1152
+Process 3executes from 1152to 1153
+Process 3executes from 1153to 1154
+Process 1executes from 1154to 1155
+Process 1executes from 1155to 1156
+Process 1executes from 1156to 1157
+Process 2executes from 1157to 1158
+Process 2executes from 1158to 1159
+No Process executes from 1159to 1160
+No Process executes from 1160to 1161
+Process 1executes from 1161to 1162
+Process 1executes from 1162to 1163
+Process 1executes from 1163to 1164
+Process 2executes from 1164to 1165
+Process 2executes from 1165to 1166
+No Process executes from 1166to 1167
+No Process executes from 1167to 1168
+No Process executes from 1168to 1169
+Process 2executes from 1169to 1170
+Process 2executes from 1170to 1171
+Process 1executes from 1171to 1172
+Process 1executes from 1172to 1173
+Process 1executes from 1173to 1174
+No Process executes from 1174to 1175
+Process 3executes from 1175to 1176
+Process 3executes from 1176to 1177
+Process 3executes from 1177to 1178
+Process 3executes from 1178to 1179
+Process 2executes from 1179to 1180
+Process 2executes from 1180to 1181
+Process 1executes from 1181to 1182
+Process 1executes from 1182to 1183
+Process 1executes from 1183to 1184
+Process 2executes from 1184to 1185
+Process 2executes from 1185to 1186
+No Process executes from 1186to 1187
+No Process executes from 1187to 1188
+Process 1executes from 1188to 1189
+Process 1executes from 1189to 1190
+Process 1executes from 1190to 1191
+Process 2executes from 1191to 1192
+Process 2executes from 1192to 1193
+No Process executes from 1193to 1194
+No Process executes from 1194to 1195
+No Process executes from 1195to 1196
+No Process executes from 1196to 1197
+Process 2executes from 1197to 1198
+Process 2executes from 1198to 1199
+Process 1executes from 1199to 1200
+Process 1executes from 1200to 1201
+Process 1executes from 1201to 1202
+Process 3executes from 1202to 1203
+Process 3executes from 1203to 1204
+Process 3executes from 1204to 1205
+Process 3executes from 1205to 1206
+Process 2executes from 1206to 1207
+Process 2executes from 1207to 1208
+Process 1executes from 1208to 1209
+Process 1executes from 1209to 1210
+Process 1executes from 1210to 1211
+Process 2executes from 1211to 1212
+Process 2executes from 1212to 1213
+No Process executes from 1213to 1214
+No Process executes from 1214to 1215
+Process 1executes from 1215to 1216
+Process 1executes from 1216to 1217
+Process 1executes from 1217to 1218
+Process 2executes from 1218to 1219
+Process 2executes from 1219to 1220
+No Process executes from 1220to 1221
+No Process executes from 1221to 1222
+No Process executes from 1222to 1223
+No Process executes from 1223to 1224
+Process 1executes from 1224to 1225
+Process 1executes from 1225to 1226
+Process 1executes from 1226to 1227
+Process 3executes from 1227to 1228
+Process 3executes from 1228to 1229
+Process 3executes from 1229to 1230
+Process 2executes from 1230to 1231
+Process 2executes from 1231to 1232
+Process 3executes from 1232to 1233
+Process 2executes from 1233to 1234
+Process 2executes from 1234to 1235
+Process 1executes from 1235to 1236
+Process 1executes from 1236to 1237
+Process 1executes from 1237to 1238
+No Process executes from 1238to 1239
+Process 2executes from 1239to 1240
+Process 2executes from 1240to 1241
+No Process executes from 1241to 1242
+Process 1executes from 1242to 1243
+Process 1executes from 1243to 1244
+Process 1executes from 1244to 1245
+No Process executes from 1245to 1246
+Process 2executes from 1246to 1247
+Process 2executes from 1247to 1248
+No Process executes from 1248to 1249
+No Process executes from 1249to 1250
+Process 3executes from 1250to 1251
+Process 3executes from 1251to 1252
+Process 3executes from 1252to 1253
+Process 3executes from 1253to 1254
+Process 2executes from 1254to 1255
+Process 2executes from 1255to 1256
+Process 1executes from 1256to 1257
+Process 1executes from 1257to 1258
+Process 1executes from 1258to 1259
+No Process executes from 1259to 1260
+Process 2executes from 1260to 1261
+Process 2executes from 1261to 1262
+Process 1executes from 1262to 1263
+Process 1executes from 1263to 1264
+Process 1executes from 1264to 1265
+No Process executes from 1265to 1266
+No Process executes from 1266to 1267
+Process 2executes from 1267to 1268
+Process 2executes from 1268to 1269
+Process 1executes from 1269to 1270
+Process 1executes from 1270to 1271
+Process 1executes from 1271to 1272
+No Process executes from 1272to 1273
+No Process executes from 1273to 1274
+Process 2executes from 1274to 1275
+Process 2executes from 1275to 1276
+Process 3executes from 1276to 1277
+Process 3executes from 1277to 1278
+Process 3executes from 1278to 1279
+Process 3executes from 1279to 1280
+Process 1executes from 1280to 1281
+Process 1executes from 1281to 1282
+Process 1executes from 1282to 1283
+Process 2executes from 1283to 1284
+Process 2executes from 1284to 1285
+No Process executes from 1285to 1286
+No Process executes from 1286to 1287
+Process 1executes from 1287to 1288
+Process 1executes from 1288to 1289
+Process 1executes from 1289to 1290
+Process 2executes from 1290to 1291
+Process 2executes from 1291to 1292
+No Process executes from 1292to 1293
+No Process executes from 1293to 1294
+No Process executes from 1294to 1295
+Process 2executes from 1295to 1296
+Process 2executes from 1296to 1297
+Process 1executes from 1297to 1298
+Process 1executes from 1298to 1299
+Process 1executes from 1299to 1300
+Process 3executes from 1300to 1301
+Process 3executes from 1301to 1302
+Process 3executes from 1302to 1303
+Process 3executes from 1303to 1304
+Process 2executes from 1304to 1305
+Process 2executes from 1305to 1306
+Process 1executes from 1306to 1307
+Process 1executes from 1307to 1308
+Process 1executes from 1308to 1309
+Process 2executes from 1309to 1310
+Process 2executes from 1310to 1311
+No Process executes from 1311to 1312
+No Process executes from 1312to 1313
+No Process executes from 1313to 1314
+Process 1executes from 1314to 1315
+Process 1executes from 1315to 1316
+Process 1executes from 1316to 1317
+Process 2executes from 1317to 1318
+Process 2executes from 1318to 1319
+No Process executes from 1319to 1320
+No Process executes from 1320to 1321
+No Process executes from 1321to 1322
+No Process executes from 1322to 1323
+Process 2executes from 1323to 1324
+Process 2executes from 1324to 1325
+Process 1executes from 1325to 1326
+Process 1executes from 1326to 1327
+Process 1executes from 1327to 1328
+Process 3executes from 1328to 1329
+Process 3executes from 1329to 1330
+Process 3executes from 1330to 1331
+Process 3executes from 1331to 1332
+Process 2executes from 1332to 1333
+Process 2executes from 1333to 1334
+Process 1executes from 1334to 1335
+Process 1executes from 1335to 1336
+Process 1executes from 1336to 1337
+Process 2executes from 1337to 1338
+Process 2executes from 1338to 1339
+No Process executes from 1339to 1340
+No Process executes from 1340to 1341
+Process 1executes from 1341to 1342
+Process 1executes from 1342to 1343
+Process 1executes from 1343to 1344
+Process 2executes from 1344to 1345
+Process 2executes from 1345to 1346
+No Process executes from 1346to 1347
+No Process executes from 1347to 1348
+No Process executes from 1348to 1349
+No Process executes from 1349to 1350
+Process 1executes from 1350to 1351
+Process 1executes from 1351to 1352
+Process 1executes from 1352to 1353
+Process 3executes from 1353to 1354
+Process 3executes from 1354to 1355
+Process 3executes from 1355to 1356
+Process 2executes from 1356to 1357
+Process 2executes from 1357to 1358
+Process 3executes from 1358to 1359
+Process 2executes from 1359to 1360
+Process 2executes from 1360to 1361
+Process 1executes from 1361to 1362
+Process 1executes from 1362to 1363
+Process 1executes from 1363to 1364
+No Process executes from 1364to 1365
+Process 2executes from 1365to 1366
+Process 2executes from 1366to 1367
+No Process executes from 1367to 1368
+Process 1executes from 1368to 1369
+Process 1executes from 1369to 1370
+Process 1executes from 1370to 1371
+No Process executes from 1371to 1372
+Process 2executes from 1372to 1373
+Process 2executes from 1373to 1374
+No Process executes from 1374to 1375
+Process 3executes from 1375to 1376
+Process 3executes from 1376to 1377
+Process 3executes from 1377to 1378
+Process 3executes from 1378to 1379
+Process 2executes from 1379to 1380
+Process 2executes from 1380to 1381
+Process 1executes from 1381to 1382
+Process 1executes from 1382to 1383
+Process 1executes from 1383to 1384
+No Process executes from 1384to 1385
+No Process executes from 1385to 1386
+Process 2executes from 1386to 1387
+Process 2executes from 1387to 1388
+Process 1executes from 1388to 1389
+Process 1executes from 1389to 1390
+Process 1executes from 1390to 1391
+No Process executes from 1391to 1392
+No Process executes from 1392to 1393
+Process 2executes from 1393to 1394
+Process 2executes from 1394to 1395
+Process 1executes from 1395to 1396
+Process 1executes from 1396to 1397
+Process 1executes from 1397to 1398
+No Process executes from 1398to 1399
+No Process executes from 1399to 1400
+Process 2executes from 1400to 1401
+Process 2executes from 1401to 1402
+Process 3executes from 1402to 1403
+Process 3executes from 1403to 1404
+Process 3executes from 1404to 1405
+Process 3executes from 1405to 1406
+Process 1executes from 1406to 1407
+Process 1executes from 1407to 1408
+Process 1executes from 1408to 1409
+Process 2executes from 1409to 1410
+Process 2executes from 1410to 1411
+No Process executes from 1411to 1412
+No Process executes from 1412to 1413
+Process 1executes from 1413to 1414
+Process 1executes from 1414to 1415
+Process 1executes from 1415to 1416
+Process 2executes from 1416to 1417
+Process 2executes from 1417to 1418
+No Process executes from 1418to 1419
+No Process executes from 1419to 1420
+No Process executes from 1420to 1421
+Process 2executes from 1421to 1422
+Process 2executes from 1422to 1423
+Process 1executes from 1423to 1424
+Process 1executes from 1424to 1425
+Process 1executes from 1425to 1426
+Process 3executes from 1426to 1427
+Process 3executes from 1427to 1428
+Process 3executes from 1428to 1429
+Process 3executes from 1429to 1430
+Process 2executes from 1430to 1431
+Process 2executes from 1431to 1432
+Process 1executes from 1432to 1433
+Process 1executes from 1433to 1434
+Process 1executes from 1434to 1435
+Process 2executes from 1435to 1436
+Process 2executes from 1436to 1437
+No Process executes from 1437to 1438
+No Process executes from 1438to 1439
+No Process executes from 1439to 1440
+Process 1executes from 1440to 1441
+Process 1executes from 1441to 1442
+Process 1executes from 1442to 1443
+Process 2executes from 1443to 1444
+Process 2executes from 1444to 1445
+No Process executes from 1445to 1446
+No Process executes from 1446to 1447
+No Process executes from 1447to 1448
+No Process executes from 1448to 1449
+Process 2executes from 1449to 1450
+Process 2executes from 1450to 1451
+Process 1executes from 1451to 1452
+Process 1executes from 1452to 1453
+Process 1executes from 1453to 1454
+Process 3executes from 1454to 1455
+Process 3executes from 1455to 1456
+Process 3executes from 1456to 1457
+Process 3executes from 1457to 1458
+Process 2executes from 1458to 1459
+Process 2executes from 1459to 1460
+Process 1executes from 1460to 1461
+Process 1executes from 1461to 1462
+Process 1executes from 1462to 1463
+Process 2executes from 1463to 1464
+Process 2executes from 1464to 1465
+No Process executes from 1465to 1466
+No Process executes from 1466to 1467
+Process 1executes from 1467to 1468
+Process 1executes from 1468to 1469
+Process 1executes from 1469to 1470
+Process 2executes from 1470to 1471
+Process 2executes from 1471to 1472
+No Process executes from 1472to 1473
+No Process executes from 1473to 1474
+No Process executes from 1474to 1475
+Process 3executes from 1475to 1476
+Process 3executes from 1476to 1477
+Process 3executes from 1477to 1478
+Process 3executes from 1478to 1479
+Process 2executes from 1479to 1480
+Process 2executes from 1480to 1481
+Process 1executes from 1481to 1482
+Process 1executes from 1482to 1483
+Process 1executes from 1483to 1484
+Process 2executes from 1484to 1485
+Process 2executes from 1485to 1486
+Process 1executes from 1486to 1487
+Process 1executes from 1487to 1488
+Process 1executes from 1488to 1489
+No Process executes from 1489to 1490
+No Process executes from 1490to 1491
+Process 2executes from 1491to 1492
+Process 2executes from 1492to 1493
+No Process executes from 1493to 1494
+Process 1executes from 1494to 1495
+Process 1executes from 1495to 1496
+Process 1executes from 1496to 1497
+No Process executes from 1497to 1498
+Process 2executes from 1498to 1499
+Process 2executes from 1499to 1500
+Process 3executes from 1500to 1501
+Process 3executes from 1501to 1502
+Process 3executes from 1502to 1503
+Process 3executes from 1503to 1504
+Process 1executes from 1504to 1505
+Process 1executes from 1505to 1506
+Process 1executes from 1506to 1507
+Process 2executes from 1507to 1508
+Process 2executes from 1508to 1509
+No Process executes from 1509to 1510
+No Process executes from 1510to 1511
+No Process executes from 1511to 1512
+Process 2executes from 1512to 1513
+Process 2executes from 1513to 1514
+Process 1executes from 1514to 1515
+Process 1executes from 1515to 1516
+Process 1executes from 1516to 1517
+No Process executes from 1517to 1518
+No Process executes from 1518to 1519
+Process 2executes from 1519to 1520
+Process 2executes from 1520to 1521
+Process 1executes from 1521to 1522
+Process 1executes from 1522to 1523
+Process 1executes from 1523to 1524
+No Process executes from 1524to 1525
+Process 3executes from 1525to 1526
+Process 3executes from 1526to 1527
+Process 3executes from 1527to 1528
+Process 3executes from 1528to 1529
+Process 2executes from 1529to 1530
+Process 2executes from 1530to 1531
+Process 1executes from 1531to 1532
+Process 1executes from 1532to 1533
+Process 1executes from 1533to 1534
+Process 2executes from 1534to 1535
+Process 2executes from 1535to 1536
+No Process executes from 1536to 1537
+No Process executes from 1537to 1538
+No Process executes from 1538to 1539
+Process 1executes from 1539to 1540
+Process 1executes from 1540to 1541
+Process 1executes from 1541to 1542
+Process 2executes from 1542to 1543
+Process 2executes from 1543to 1544
+No Process executes from 1544to 1545
+No Process executes from 1545to 1546
+No Process executes from 1546to 1547
+Process 2executes from 1547to 1548
+Process 2executes from 1548to 1549
+Process 1executes from 1549to 1550
+Process 1executes from 1550to 1551
+Process 1executes from 1551to 1552
+Process 3executes from 1552to 1553
+Process 3executes from 1553to 1554
+Process 3executes from 1554to 1555
+Process 3executes from 1555to 1556
+Process 2executes from 1556to 1557
+Process 2executes from 1557to 1558
+Process 1executes from 1558to 1559
+Process 1executes from 1559to 1560
+Process 1executes from 1560to 1561
+Process 2executes from 1561to 1562
+Process 2executes from 1562to 1563
+No Process executes from 1563to 1564
+No Process executes from 1564to 1565
+No Process executes from 1565to 1566
+Process 1executes from 1566to 1567
+Process 1executes from 1567to 1568
+Process 1executes from 1568to 1569
+Process 2executes from 1569to 1570
+Process 2executes from 1570to 1571
+No Process executes from 1571to 1572
+No Process executes from 1572to 1573
+No Process executes from 1573to 1574
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 2
+Period of process is : 6
+Period of process is : 5
+Name of process is : 2
+Burst time of process is : 1
+Period of process is : 6
+Period of process is : 5
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 25
+Period of process is : 20
+Process 1executes from 0to 1
+Process 1executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+No Process executes from 4to 5
+No Process executes from 5to 6
+Process 1executes from 6to 7
+Process 1executes from 7to 8
+Process 2executes from 8to 9
+No Process executes from 9to 10
+No Process executes from 10to 11
+No Process executes from 11to 12
+Process 1executes from 12to 13
+Process 1executes from 13to 14
+Process 2executes from 14to 15
+No Process executes from 15to 16
+No Process executes from 16to 17
+No Process executes from 17to 18
+Process 1executes from 18to 19
+Process 1executes from 19to 20
+Process 2executes from 20to 21
+No Process executes from 21to 22
+No Process executes from 22to 23
+No Process executes from 23to 24
+Process 1executes from 24to 25
+Process 1executes from 25to 26
+Process 2executes from 26to 27
+Process 3executes from 27to 28
+No Process executes from 28to 29
+No Process executes from 29to 30
+Process 1executes from 30to 31
+Process 1executes from 31to 32
+Process 2executes from 32to 33
+No Process executes from 33to 34
+No Process executes from 34to 35
+No Process executes from 35to 36
+Process 1executes from 36to 37
+Process 1executes from 37to 38
+Process 2executes from 38to 39
+No Process executes from 39to 40
+No Process executes from 40to 41
+No Process executes from 41to 42
+Process 1executes from 42to 43
+Process 1executes from 43to 44
+Process 2executes from 44to 45
+No Process executes from 45to 46
+No Process executes from 46to 47
+No Process executes from 47to 48
+Process 1executes from 48to 49
+Process 1executes from 49to 50
+Process 2executes from 50to 51
+Process 3executes from 51to 52
+No Process executes from 52to 53
+No Process executes from 53to 54
+Process 1executes from 54to 55
+Process 1executes from 55to 56
+Process 2executes from 56to 57
+No Process executes from 57to 58
+No Process executes from 58to 59
+No Process executes from 59to 60
+Process 1executes from 60to 61
+Process 1executes from 61to 62
+Process 2executes from 62to 63
+No Process executes from 63to 64
+No Process executes from 64to 65
+No Process executes from 65to 66
+Process 1executes from 66to 67
+Process 1executes from 67to 68
+Process 2executes from 68to 69
+No Process executes from 69to 70
+No Process executes from 70to 71
+No Process executes from 71to 72
+Process 1executes from 72to 73
+Process 1executes from 73to 74
+Process 2executes from 74to 75
+Process 3executes from 75to 76
+No Process executes from 76to 77
+No Process executes from 77to 78
+Process 1executes from 78to 79
+Process 1executes from 79to 80
+Process 2executes from 80to 81
+No Process executes from 81to 82
+No Process executes from 82to 83
+No Process executes from 83to 84
+Process 1executes from 84to 85
+Process 1executes from 85to 86
+Process 2executes from 86to 87
+No Process executes from 87to 88
+No Process executes from 88to 89
+No Process executes from 89to 90
+Process 1executes from 90to 91
+Process 1executes from 91to 92
+Process 2executes from 92to 93
+No Process executes from 93to 94
+No Process executes from 94to 95
+No Process executes from 95to 96
+Process 1executes from 96to 97
+Process 1executes from 97to 98
+Process 2executes from 98to 99
+No Process executes from 99to 100
+Process 3executes from 100to 101
+No Process executes from 101to 102
+Process 1executes from 102to 103
+Process 1executes from 103to 104
+Process 2executes from 104to 105
+No Process executes from 105to 106
+No Process executes from 106to 107
+No Process executes from 107to 108
+Process 1executes from 108to 109
+Process 1executes from 109to 110
+Process 2executes from 110to 111
+No Process executes from 111to 112
+No Process executes from 112to 113
+No Process executes from 113to 114
+Process 1executes from 114to 115
+Process 1executes from 115to 116
+Process 2executes from 116to 117
+No Process executes from 117to 118
+No Process executes from 118to 119
+No Process executes from 119to 120
+Process 1executes from 120to 121
+Process 1executes from 121to 122
+Process 2executes from 122to 123
+No Process executes from 123to 124
+No Process executes from 124to 125
+Process 3executes from 125to 126
+Process 1executes from 126to 127
+Process 1executes from 127to 128
+Process 2executes from 128to 129
+No Process executes from 129to 130
+No Process executes from 130to 131
+No Process executes from 131to 132
+Process 1executes from 132to 133
+Process 1executes from 133to 134
+Process 2executes from 134to 135
+No Process executes from 135to 136
+No Process executes from 136to 137
+No Process executes from 137to 138
+Process 1executes from 138to 139
+Process 1executes from 139to 140
+Process 2executes from 140to 141
+No Process executes from 141to 142
+No Process executes from 142to 143
+No Process executes from 143to 144
+Process 1executes from 144to 145
+Process 1executes from 145to 146
+Process 2executes from 146to 147
+No Process executes from 147to 148
+No Process executes from 148to 149
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 5
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Period of process is : 4
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Period of process is : 10
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+No Process executes from 4to 5
+Process 1executes from 5to 6
+Process 2executes from 6to 7
+Process 2executes from 7to 8
+No Process executes from 8to 9
+No Process executes from 9to 10
+Process 1executes from 10to 11
+Process 2executes from 11to 12
+Process 2executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 1executes from 15to 16
+Process 2executes from 16to 17
+Process 2executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 5
+Period of process is : 2
+Burst time should be less than Period
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 4
+Period of process is : 3
+Burst time should be less than Period
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Period of process is : 3
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Period of process is : 4
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Period of process is : 11
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 6
+Process 2executes from 6to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 11
+Process 2executes from 11to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 16
+Process 2executes from 16to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Period of process is : 3
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Period of process is : 4
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Period of process is : 11
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 6
+Process 2executes from 6to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 11
+Process 2executes from 11to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 16
+Process 2executes from 16to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Number of process in execution are : 3
+Name of process is : 1
+Burst time of process is : 3
+Period of process is : 3
+Period of process is : 3
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 4
+Period of process is : 4
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Period of process is : 11
+Total time required for processing is : 90
+Total time available for processing is : 60
+All the Processes will not be executed as they requires more slots
+-----------------------------------------------------------------------------------------------------

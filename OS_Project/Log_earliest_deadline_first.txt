@@ -1,0 +1,183 @@
+
+We are using Earliest Deadline first real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Process 1executes from 0to 1
+Process 2executes from 1to 3
+Process 3executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+No Process executes from 19to 20
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 4
+Period of process is : 6
+Name of process is : 2
+Burst time of process is : 3
+Period of process is : 4
+Burst time should be less than Deadline
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Name of process is : 3
+Burst time of process is : 2
+Period of process is : 25
+Process 1executes from 0to 1
+Process 2executes from 1to 3
+Process 3executes from 3to 5
+Process 1executes from 5to 6
+Process 2executes from 6to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+No Process executes from 19to 20
+Process 1executes from 20to 21
+Process 2executes from 21to 23
+No Process executes from 23to 24
+Process 1executes from 24to 25
+Process 2executes from 25to 27
+Process 3executes from 27to 29
+Process 1executes from 29to 30
+Process 2executes from 30to 32
+Process 1executes from 32to 33
+No Process executes from 33to 34
+No Process executes from 34to 35
+Process 2executes from 35to 37
+Process 1executes from 37to 38
+No Process executes from 38to 39
+No Process executes from 39to 40
+Process 1executes from 40to 41
+Process 2executes from 41to 43
+No Process executes from 43to 44
+Process 1executes from 44to 45
+Process 2executes from 45to 47
+No Process executes from 47to 48
+Process 1executes from 48to 49
+No Process executes from 49to 50
+Process 2executes from 50to 52
+Process 3executes from 52to 54
+Process 1executes from 54to 55
+Process 2executes from 55to 57
+Process 1executes from 57to 58
+No Process executes from 58to 59
+No Process executes from 59to 60
+Process 1executes from 60to 61
+Process 2executes from 61to 63
+No Process executes from 63to 64
+Process 1executes from 64to 65
+Process 2executes from 65to 67
+No Process executes from 67to 68
+Process 1executes from 68to 69
+No Process executes from 69to 70
+Process 2executes from 70to 72
+Process 1executes from 72to 73
+No Process executes from 73to 74
+No Process executes from 74to 75
+Process 2executes from 75to 77
+Process 1executes from 77to 78
+Process 3executes from 78to 80
+Process 1executes from 80to 81
+Process 2executes from 81to 83
+No Process executes from 83to 84
+Process 1executes from 84to 85
+Process 2executes from 85to 87
+No Process executes from 87to 88
+Process 1executes from 88to 89
+No Process executes from 89to 90
+Process 2executes from 90to 92
+Process 1executes from 92to 93
+No Process executes from 93to 94
+No Process executes from 94to 95
+Process 2executes from 95to 97
+Process 1executes from 97to 98
+No Process executes from 98to 99
+No Process executes from 99to 100
+-----------------------------------------------------------------------------------------------------
+
+We are using Earliest Deadline first real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 4
+Period of process is : 10
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 14
+Process 1executes from 0to 4
+Process 2executes from 4to 6
+No Process executes from 6to 7
+No Process executes from 7to 8
+No Process executes from 8to 9
+No Process executes from 9to 10
+Process 1executes from 10to 14
+Process 2executes from 14to 16
+No Process executes from 16to 17
+No Process executes from 17to 18
+No Process executes from 18to 19
+No Process executes from 19to 20
+Process 1executes from 20to 24
+No Process executes from 24to 25
+No Process executes from 25to 26
+No Process executes from 26to 27
+No Process executes from 27to 28
+Process 2executes from 28to 30
+Process 1executes from 30to 34
+No Process executes from 34to 35
+No Process executes from 35to 36
+No Process executes from 36to 37
+No Process executes from 37to 38
+No Process executes from 38to 39
+No Process executes from 39to 40
+Process 1executes from 40to 44
+Process 2executes from 44to 46
+No Process executes from 46to 47
+No Process executes from 47to 48
+No Process executes from 48to 49
+No Process executes from 49to 50
+Process 1executes from 50to 54
+No Process executes from 54to 55
+No Process executes from 55to 56
+Process 2executes from 56to 58
+No Process executes from 58to 59
+No Process executes from 59to 60
+Process 1executes from 60to 64
+No Process executes from 64to 65
+No Process executes from 65to 66
+No Process executes from 66to 67
+No Process executes from 67to 68
+No Process executes from 68to 69
+No Process executes from 69to 70
+-----------------------------------------------------------------------------------------------------

@@ -1,0 +1,90 @@
+
+We are using RMA first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 20
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+Process 3executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 6
+Process 2executes from 6to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 11
+Process 2executes from 11to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 16
+Process 2executes from 16to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------
+
+We are using RMA first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 4
+Period of process is : 10
+Name of process is : 2
+Burst time of process is : 3
+Period of process is : 9
+Name of process is : 3
+Burst time of process is : 1
+Period of process is : 15
+Ratio calculated by Liu formula : 0.7797631496846196
+Total ratio for processing is : 0.8
+All the Processes will not be executed as they requires more slots
+-----------------------------------------------------------------------------------------------------
+
+We are using RMA first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 4
+Period of process is : 8
+Name of process is : 2
+Burst time of process is : 6
+Period of process is : 9
+Ratio calculated by Liu formula : 0.8284271247461903
+Total ratio for processing is : 1.1666666666666665
+All the Processes will not be executed as they requires more slots
+-----------------------------------------------------------------------------------------------------
+
+We are using RMA first Premtive real time scheduling algorithm
+Enter the number of Process you want to Execute
+Name of process is : 1
+Burst time of process is : 1
+Period of process is : 4
+Name of process is : 2
+Burst time of process is : 2
+Period of process is : 5
+Process 1executes from 0to 1
+Process 2executes from 1to 2
+Process 2executes from 2to 3
+No Process executes from 3to 4
+Process 1executes from 4to 5
+Process 2executes from 5to 6
+Process 2executes from 6to 7
+No Process executes from 7to 8
+Process 1executes from 8to 9
+No Process executes from 9to 10
+Process 2executes from 10to 11
+Process 2executes from 11to 12
+Process 1executes from 12to 13
+No Process executes from 13to 14
+No Process executes from 14to 15
+Process 2executes from 15to 16
+Process 2executes from 16to 17
+Process 1executes from 17to 18
+No Process executes from 18to 19
+-----------------------------------------------------------------------------------------------------
