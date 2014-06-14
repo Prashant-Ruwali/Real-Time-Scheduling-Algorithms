@@ -1,0 +1,28 @@
+Read IT :
+
+How to run the Real time scheduling algorithms :
+
+1.   Enter the number of processes which you want to schedule.
+
+Here enter the total processes which you want to execute.
+
+ 2.   Enter the name of processes.
+
+	For each of the process enter a integer value for the process. Enter unique values for the   process name.
+
+3.	Enter the CPU Burst Time for each of the process been entered this defines the time for which the process will be executing.
+
+4.	Enter the period of time in which process should get executed . If constraint violated then schedule will not get execute.
+ 
+5.   If the algorithm is Earliest Deadline first (Preemptive and Non Preemptive algorithm)  then ,
+
+	Enter deadline for each of the process if a process fails to meet the deadline then schedule will not get executed.
+
+If the details entered for the process satisfies all the requirement it will ask for type of output required.
+
+Press 1 for step wise display of Gantt Chart .
+Press 2 for complete display of Gantt Chart.
+
+Log is created in the same directory containing the code.
+
+Otherwise error message that the schedule cannot get executed will be displayed.
